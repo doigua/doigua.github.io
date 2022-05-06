@@ -1,6 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i");
-
+@import url("https://fonts.googleapis.com/css?family=Satisfy:300,300i,400,400i");
 /*
 	Story by HTML5 UP
 	html5up.net | @ajlkn
@@ -194,7 +194,7 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		line-height: 1.375;
-		letter-spacing: -0.05em;
+		letter-spacing: 0.0em;
 		margin: 0 0 1rem 0;
 	}
 
@@ -204,7 +204,8 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 3.5rem;
+        font-family: "Satisfy", cursive;
+		font-size: 3.2rem;
 		line-height: 1.2;
 	}
 
