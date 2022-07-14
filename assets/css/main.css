@@ -216,8 +216,10 @@ input, select, textarea {
 	}
 
 	h2 {
-		font-family: "TheNightWatch";
 		font-size: 2.25rem;
+	}
+	h2.index-h2 {
+		font-family: "TheNightWatch";
 	}
 
 	h3 {
