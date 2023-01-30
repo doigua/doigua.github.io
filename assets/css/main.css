@@ -211,12 +211,15 @@ input, select, textarea {
 	h1 {
         /*font-family: "Satisfy", cursive;*/
 		font-family: "TheNightWatch";
-		font-size: 3.0rem;
-		line-height: 1.2;
+		font-size: 2.2rem;
 	}
+		.title {
+			font-size: 2.0rem;
+			line-height: 1.2;
+		}
 
 	h2 {
-		font-size: 2.25rem;
+		font-size: 2.0rem;
 	}
 	h2.index-h2 {
 		font-family: "TheNightWatch";
@@ -308,7 +311,7 @@ input, select, textarea {
 		}
 
 		h1 {
-			font-size: 2.5rem;
+			font-size: 2.2rem;
 		}
 
 		h2 {
